@@ -32,9 +32,7 @@ The main objective of this project is to better understand how factors like food
 - Structured datasets (CSV / relational databases)
 
 ## 🔗 Presentation Link
-You can add a link to your project presentation below: **Presentation:** [here]([https://your-link.com](https://docs.google.com/presentation/d/1ZMPm5Nopm0B6HsGp6GZenw24NgSeDUuA/edit?slide=id.p2#slide=id.p2))
-
-**Presentation:** _Add your link here_
+You can add a link to your project presentation below: Click [here](https://docs.google.com/presentation/d/1ZMPm5Nopm0B6HsGp6GZenw24NgSeDUuA/edit?slide=id.p2#slide=id.p2)
 
 ## 📈 Conclusion
 By leveraging SQL for data exploration, **HappyBirthFood** provides insights into socio-economic conditions in selected European countries and highlights potential relationships between living standards and fertility trends.
